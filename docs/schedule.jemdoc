@@ -7,7 +7,7 @@ Note that the schedule may be *subject to change*. Please check the course websi
 {}{table}{schedule}
 *Week* | *Date* | *Topics* | *References* | *Notes* ||  
 1  | Th 09\/05 | Introduction | lecture | [slides/notes0.pdf notes-0], [slides/notes1.pdf notes-1], [paper/passjoin.pdf passjoin paper] ||
-2  | Th 09\/12 | Similarity Join 1 | lecture | [slides/notes2.pdf notes-2], [paper/overlap.pdf dossjoin paper] || 
+2  | Th 09\/12 | Similarity Join 1 | lecture | [slides/notes2.pdf notes-2], [paper/overlap.pdf dossjoin paper] [code/overlap.tar dossjoin code] || 
 3  | Th 09\/19 | Similarity Join 2 | lecture | || 
 4  | Th 09\/26 | Similarity Search 1 | lecture |  ||
 5  | Th 10\/03 | Similarity Search 2 | lecture |  ||
