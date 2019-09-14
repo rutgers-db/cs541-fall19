@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}
+= CS 541: Advanced Data Management
+
+*Lecture:* Th34 12:00pm - 3:00pm @ Busch CCB 1209
+
+*Instructor:* [https://people.csail.mit.edu/dongdeng Dong Deng] (dong.deng AT rutgers.edu) 
+
+  - office hours: Thursday 3:00pm-4:00pm or by appointment 
+
+*TA:* Yanshi Luo (yanshi.luo AT rutgers.edu)
+
+ - office hours: 8:30am-10:30am
+ - CBIM: [media/address.png map to her desk] (send her an email if you fail to find her desk)
+
+== Announcements
+ - Sign in group info via Google Doc (09/13/2019) \n\n
+  Please use [https://docs.google.com/spreadsheets/d/1S_Vu6uaJo0h5bKMbwEPTopx_sFYBdemSyJoNQUuPTZ0/edit?usp=sharing this google doc link] to sign in your group information. The deadline of forming a group is 09/19/2019 12:00 pm (Before the start of next class) \n If you are gonna to form a group less than 3 people, feel free to use a placeholder like `\\' to indicate that. \n P.S. If you have not yet found a teammate, feel free to send a post via +Canvas -> Discussion -> “Search a Teammate? Post here!”+ and contact others via emails. \n\n Best Regards, \n Yanshi Luo
+ - Papers to review have been uploaded, find them in the schedule page
+ - Slides for lecture 1 is uploaded, find them in the schedule page
+ - The first class is Thursday 09/05
+
+== Course Description
+This course is designed to introduce graduate students to some advanced topics in data management and data curation, including: data integration, data cleaning, data wrangling, and data visualization. Classes will consist of lectures and seminars. There will be two programming assignments (in Python), paper review (reading, writing reviews, presentation, and discussion), and one test. 
+
+== Lectures
+Lectures are held once a week, from 12:00pm-3:00pm in CCB 1209 on Thursday. Attendance at lectures is mandatory and you are expected to show up prepared to answer questions and participate in discussion. In seminar classes, the students will be asked to review specific papers beforehand and present and discuss the papers during the classes.
+
+
+== Prerequisites
+Students should have taken data structure and algorithm related courses and introductory database courses. If you do not have experience in these subjects and would like to take the course, please email the instructor. Python programming experience is assumed.
+
+
+== Grading
+Grades are assigned based on programming assignments, paper review and presentation, final project, and class participation. The grading breakdown is as follows:
+
+- Programming Assignment: 20\% 
+- Paper Review: 25\% 
+- Paper Presentation: 25\%
+- Participation of Discussion: 10\%
+- Examination: 20\%
+
+== Reading Materials 
+all lecture and seminar discussions are based on readings from the data management literature. 
