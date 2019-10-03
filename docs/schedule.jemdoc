@@ -3,7 +3,7 @@
 
 Note that the schedule may be *subject to change*. Please check the course website frequently for the latest schedule.
 
-*How to [paper/read.pdf read] & [paper/review.pdf review] a paper? How to give a [paper/talk.pdf talk]?*
+For your reference: *How to [paper/read.pdf read] & [paper/review.pdf review] a paper? How to give a [paper/talk.pdf talk]?*
 
 ~~~
 {}{table}{schedule}
@@ -11,8 +11,8 @@ Note that the schedule may be *subject to change*. Please check the course websi
 1  | Th 09\/05 | Introduction | lecture | [slides/notes0.pdf notes-0], [slides/notes1.pdf notes-1], [paper/passjoin.pdf passjoin paper] ||
 2  | Th 09\/12 | Similarity Join 1 | lecture | [slides/notes2.pdf notes-2], [paper/overlap.pdf dossjoin paper], [code/overlap.tar dossjoin code] || 
 3  | Th 09\/19 | Similarity Join 2 | lecture | [slides/notes3.pdf notes-3], [paper/prefixfilter.pdf prefix filter paper], [paper/setjoin.pdf partition paper], [paper/edjoin.pdf ed prefix paper], [paper/pivotal.pdf pivotal paper] || 
-4  | Th 09\/26 | Similarity Search 1 | lecture | [slides/notes4.pdf] ||
-5  | Th 10\/03 | Similarity Search 2 | lecture |  ||
+4  | Th 09\/26 | Similarity Search 1 | lecture | [slides/notes4.pdf] [paper/rtree.pdf R-tree paper] ||
+5  | Th 10\/03 | Similarity Search 2 | lecture | [slides/notes5.pdf], [paper/pqscan.pdf PQ scan paper], [paper/pqfastscan.pdf PQ fast scan paper] ||
 6  | Th 10\/10 | Data Transformation | paper review |  [paper/transformation-1.pdf transformation 1], [paper/transformation-2.pdf transformation 2], [paper/transformation-3.pdf transformation 3] ||
 7  | Th 10\/17 | Middle Term Exam | exam |  ||
 8  | Th 10\/24 | Data Discovery | paper review | [paper/discovery-1.pdf discovery 1], [paper/discovery-2.pdf discovery 2], [paper/discovery-3.pdf discovery 3]||
