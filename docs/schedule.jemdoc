@@ -3,23 +3,25 @@
 
 Note that the schedule may be *subject to change*. Please check the course website frequently for the latest schedule.
 
+*How to [paper/read.pdf read] & [paper/review.pdf review] a paper? How to give a [paper/talk.pdf talk]?*
+
 ~~~
 {}{table}{schedule}
 *Week* | *Date* | *Topics* | *References* | *Notes* ||  
 1  | Th 09\/05 | Introduction | lecture | [slides/notes0.pdf notes-0], [slides/notes1.pdf notes-1], [paper/passjoin.pdf passjoin paper] ||
-2  | Th 09\/12 | Similarity Join 1 | lecture | [slides/notes2.pdf notes-2], [paper/overlap.pdf dossjoin paper] [code/overlap.tar dossjoin code] || 
-3  | Th 09\/19 | Similarity Join 2 | lecture | || 
-4  | Th 09\/26 | Similarity Search 1 | lecture |  ||
+2  | Th 09\/12 | Similarity Join 1 | lecture | [slides/notes2.pdf notes-2], [paper/overlap.pdf dossjoin paper], [code/overlap.tar dossjoin code] || 
+3  | Th 09\/19 | Similarity Join 2 | lecture | [slides/notes3.pdf notes-3], [paper/prefixfilter.pdf prefix filter paper], [paper/setjoin.pdf partition paper], [paper/edjoin.pdf ed prefix paper], [paper/pivotal.pdf pivotal paper] || 
+4  | Th 09\/26 | Similarity Search 1 | lecture | [slides/notes4.pdf] ||
 5  | Th 10\/03 | Similarity Search 2 | lecture |  ||
 6  | Th 10\/10 | Data Transformation | paper review |  [paper/transformation-1.pdf transformation 1], [paper/transformation-2.pdf transformation 2], [paper/transformation-3.pdf transformation 3] ||
-7  | Th 10\/17 | Data Discovery | paper review | [paper/discovery-1.pdf discovery 1], [paper/discovery-2.pdf discovery 2], [paper/discovery-3.pdf discovery 3]||
-8  | Th 10\/24 | Data Wrangling | paper review | [paper/wrangling-1.pdf wrangling 1], [paper/wrangling-2.pdf wrangling 2], [paper/wrangling-3.pdf wrangling 3] ||
-9  | Th 10\/31 | Data Cleaning | paper review | [paper/cleaning-1.pdf cleaning 1], [paper/cleaning-2.pdf cleaning 2], [paper/cleaning-3.pdf cleaning 3] ||
-10 | Th 11\/07 | Data Integration - Schema Mapping | paper review | [paper/schema-1.pdf schema 1], [paper/schema-2.pdf schema 2] ||
+7  | Th 10\/17 | Middle Term Exam | exam |  ||
+8  | Th 10\/24 | Data Discovery | paper review | [paper/discovery-1.pdf discovery 1], [paper/discovery-2.pdf discovery 2], [paper/discovery-3.pdf discovery 3]||
+9  | Th 10\/31 | Data Wrangling | paper review | [paper/wrangling-1.pdf wrangling 1], [paper/wrangling-2.pdf wrangling 2], [paper/wrangling-3.pdf wrangling 3] ||
+10 | Th 11\/07 | Data Cleaning | paper review | [paper/cleaning-1.pdf cleaning 1], [paper/cleaning-2.pdf cleaning 2], [paper/cleaning-3.pdf cleaning 3] ||
 11 | Th 11\/14 | Data Integration - Entity Resolution | paper review | [paper/entityresolution-1.pdf matching 1], [paper/entityresolution-2.pdf matching 2], [paper/entityresolution-3.pdf matching 3] ||
 12 | Th 11\/21 | Data Integration - Entity Consolidation | paper review | [paper/fusion-1.pdf fusion 1], [paper/fusion-2.pdf fusion 2], [paper/fusion-3.pdf fusion 3] ||
-13 | Th 11\/28 | Thanksgiving - No Class |  |  ||
-14 | Th 12\/05 | Data Visualization | paper review | [paper/visualization-1.pdf visualization 1], [paper/visualization-2.pdf visualization 2], [paper/visualization-3.pdf visualization 3]
+13 | Th 11\/26 | Data Visualization | paper review | [paper/visualization-1.pdf visualization 1], [paper/visualization-2.pdf visualization 2], [paper/visualization-3.pdf visualization 3] ||
+14 | Th 12\/05 | Summary of this class | | 
 ~~~
 
 All the students form groups of three. Each group is in charge of presenting the three papers in a week. The 3 group members can read and discuss the 3 papers together. 
