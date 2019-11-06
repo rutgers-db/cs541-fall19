@@ -40,21 +40,14 @@ A 1-page (maximum) summary about your experiment result.
 
 What are the goals of your project? Please state them with minimal jargon. 
 
-### Survey of the state-of-the-art
-
-What are other tools or project that try to accomplish similar things
-today? What are their limitations? How would you compare any tools you might
-build with the state of the art?
-
- It's okay not to build something that performs a novel task but it is
-important to place your project in the context of what exists today.
+### Brief description of compared methods
 
 ### Experiment Detail
 
 Please provide technical details that you build out. 
 
-1. Datasets: Did you do data cleaning? If so, how? Any notable features in this dataset?
-2. Algorithm / tools: What language, algorithm or tool did you use? What are its main components? Any adjustment when you apply it on your dataset?
+1. Datasets: a brief description of your test dataset.
+2. Algorithm / machine: What language, algorithm or tool did you use? What are the configuration of your machine and what is the compiler and compile option? Any adjustment when you apply it on your dataset?
 
 ### Evaluation (The most important section!)
 
@@ -63,12 +56,12 @@ are your experimental setup(s)?
 
 The following criteria is required:
 
-1. query time
-2. index time
-3. index size
-4. accuracy
+1. query time 
+2. index time 
+3. index size 
+4. accuracy 
 5. scalability
-6. parameters
+6. impact of parameters
 
 ### Supplementary
 
@@ -78,14 +71,8 @@ Did you face with any technical difficulty when working on this experiment? How 
 
 Materials that are not so important but deserve a presentation in the documents
 
-Figures
-
-Tables
-
 ### Reference
 
-
-
-**Be illustrative and concrete: draw plots, show example code, talk through**
+**Be illustrative and concrete: draw plots, talk through**
 **experiment result and explain why you got these results.**
 
